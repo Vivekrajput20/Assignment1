@@ -11,7 +11,7 @@ header{
   width: 84.7%;
   top: 0vh;
   left: 7.6%;
-  box-shadow: 0 0.333333rem 1.111111rem 0 rgba(0,0,0,0.06);
+  box-shadow: 0 0.333333rem 1.111111rem 0 rgba(1,1,1,0.06);
   z-index: 100;
 }
 ul{
